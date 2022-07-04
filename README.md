@@ -5,5 +5,5 @@ Changes Made From Original
 +New Backgound
 +New Logo
 
-To Install Download and copy to
+To Install Download, extract and copy to
 home/.local/share/plasma/look-and-feel/
